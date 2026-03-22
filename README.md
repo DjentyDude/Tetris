@@ -1,6 +1,6 @@
 Tetris by DjentyDude
 
-HOW TO RUN: No Python needed, . Just open the dist folder, then Tetris, and run the executable. Have fun!
+HOW TO RUN: No Python needed, . Just open the dist folder, then Tetris, and run the .exe. Have fun!
 
 About: A fully functional Tetris clone built in Python using the PyGame library. Includes all 7 standard tetrominoes, collision detection, line clearing, and color-coded pieces.
 
